@@ -1,5 +1,5 @@
 
-PWD := /home/nabin/Data/.archives/sfml/BaaghChaal
+PWD := /home/nabin/Data/Projects/sfml/BaaghChaal
 SRC_DIR := $(PWD)/src
 BUILD_DIR := $(PWD)/build
 INCLUDE_DIR := $(PWD)/include
